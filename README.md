@@ -1,11 +1,10 @@
-# Legalmattic
-## Democratizing WordPress.com legalese since 2014
+# Edupack Legal
 
 ### What is this?
-This is the source of several "legal documents" on WordPress.com, including the Terms of Service. We'd like our legal documents to embody our vision of the spirit of the web--open and accessible.
+This is the source of several "legal documents" on Edupack.dev, including the Terms of Service. We'd like our legal documents to embody our vision of the spirit of the web--open and accessible.
 
 ### What can I do with it?
-Since these documents are licensed under a Creative Commons license (see below for more information), please feel free to re-use and edit these terms to fit your own use. We do ask for a link back so we can help share the source of this license and spread the word further.
+Since these documents are licensed under a Creative Commons license (see below for more information), please feel free to re-use and edit these terms to fit your own use. We do ask for a link back so we can help share the source of this license and spread the word further. **Thanks [Automattic](https://automattic.com/)!**
 
 If you notice any typos or would like to suggest any changes, please contribute a pull request.
 
@@ -20,5 +19,4 @@ As well as these open source "legal documents" we also have open sourced other l
 
 ### Footnotes and Miscellany
 
-* [Automattic Transparency Report](https://transparency.automattic.com/)
-* [Blog post on why we open sourced our DMCA documentation](https://transparency.automattic.com/2014/11/18/open-sourcing-our-dmca-process/)
+* [Blog post on why Automattic open sourced our DMCA documentation](https://transparency.automattic.com/2014/11/18/open-sourcing-our-dmca-process/)
